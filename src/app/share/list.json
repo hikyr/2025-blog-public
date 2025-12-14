@@ -10,16 +10,6 @@
 		"stars": 4
 	},
 	{
-		"name": "TinyPNG",
-		"url": "https://tinypng.com/",
-		"logo": "https://tinypng.com/static/images/george-anim/large_george_x2.webp",
-		"description": "国际上比较出名的压缩图片工具，过去的书本中知晓的这个网站，但是有图片大小限制，也有数量限制。挺好的压缩图片替代品。",
-		"tags": [
-			"图片"
-		],
-		"stars": 3
-	},
-	{
 		"name": "removebg",
 		"url": "https://www.remove.bg/zh",
 		"logo": "/images/share/859bfb2ef1c6a503.svg",
@@ -29,17 +19,6 @@
 			"AI"
 		],
 		"stars": 3
-	},
-	{
-		"name": "Neumorphism",
-		"url": "https://neumorphism.io/",
-		"logo": "https://neumorphism.io/apple-touch-icon.png",
-		"description": "Neumorphism 是一种极具鲜明特色的设计风格，总能给新人一种惊叹感。但是应用并不广泛，实际开发也会有很多不好的点。更多是做一个留念。",
-		"tags": [
-			"CSS",
-			"Github"
-		],
-		"stars": 2
 	},
 	{
 		"name": "Nucleo",
@@ -144,16 +123,6 @@
 		"stars": 4
 	},
 	{
-		"name": "abeto 官网",
-		"logo": "https://abeto.co/assets/favicon32-11fb90a3.png",
-		"url": "https://abeto.co/",
-		"description": "无限绽开的花，飘荡的树叶，复古风格化",
-		"tags": [
-			"3D"
-		],
-		"stars": 4
-	},
-	{
 		"name": "Messenger",
 		"logo": "https://messenger.abeto.co/assets/favicon32-BC0QIL61.png",
 		"url": "https://messenger.abeto.co/",
@@ -182,55 +151,5 @@
 			"3D"
 		],
 		"stars": 5
-	},
-	{
-		"name": "Making Software",
-		"logo": "https://www.makingsoftware.com/favicon.ico",
-		"url": "https://www.makingsoftware.com/",
-		"description": "面向软件设计和开发人员的参考手册。样式很棒的学习网站。",
-		"tags": [
-			"学习"
-		],
-		"stars": 4
-	},
-	{
-		"name": "Ease 函数参考",
-		"logo": "https://easings.net/96.8aa68ac4.png",
-		"url": "https://easings.net/",
-		"description": "当你在调整动画节奏时，这个 ease 表能帮助直观感受 ease 表现出的效果",
-		"tags": [
-			"Github"
-		],
-		"stars": 3
-	},
-	{
-		"name": "Isocons",
-		"logo": "/images/share/97859f1c57799dd2.png",
-		"url": "https://www.isocons.app/",
-		"description": "3D icons 网站，酷酷的，免费。",
-		"tags": [
-			"Icons"
-		],
-		"stars": 3
-	},
-	{
-		"name": "Webp 转换压缩",
-		"logo": "https://www.yysuni.com/images/avatar.png",
-		"url": "https://www.yysuni.com/image-toolbox",
-		"description": "无限压缩，快且方便，可以直接对比效果",
-		"tags": [
-			"图片"
-		],
-		"stars": 3
-	},
-	{
-		"name": "WoraWork",
-		"logo": "https://worawork.vercel.app/Icons/worawork.webp",
-		"url": "https://worawork.vercel.app/",
-		"description": "方格世界的 Web3D，场景渲染非常棒，非常值得体验",
-		"tags": [
-			"3D"
-		],
-		"stars": 3
 	}
 ]
